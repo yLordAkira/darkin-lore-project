@@ -99,7 +99,6 @@ Esse destino é considerado pior que a morte:
 
 ## 🩸 Aatrox --- A Lâmina Darkin
 
-{=html}
 <p align="center">
 
 <img src="https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Aatrox_0.jpg" width="750">
