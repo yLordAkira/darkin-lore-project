@@ -1,128 +1,226 @@
-🩸 Darkin Lore Compendium — NotebookLM
-<p align="center"> <img src="https://raw.githubusercontent.com/placeholder/darkin-banner/main/darkin-banner.jpg" width="100%"> </p> <p align="center"> <img src="https://img.shields.io/badge/Universe-Runeterra-red?style=for-the-badge"> <img src="https://img.shields.io/badge/Theme-Darkin%20Lore-darkred?style=for-the-badge"> <img src="https://img.shields.io/badge/Tool-NotebookLM-black?style=for-the-badge"> </p>
-📖 Sobre o Projeto
+# 🩸 Darkin Lore Compendium --- NotebookLM
 
-Este repositório apresenta um Notebook interativo criado no NotebookLM contendo uma análise detalhada sobre a origem, queda e legado dos Darkin, uma das raças mais trágicas e poderosas do universo de League of Legends.
+```{=html}
+<p align="center">
+```
+`<img src="https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Aatrox_0.jpg" width="100%">`{=html}
+```{=html}
+</p>
+```
+```{=html}
+<p align="center">
+```
+`<img src="https://img.shields.io/badge/NotebookLM-Lore%20Analysis-black?style=for-the-badge&logo=google&logoColor=white">`{=html}
+`<img src="https://img.shields.io/badge/Universe-Runeterra-darkred?style=for-the-badge">`{=html}
+`<img src="https://img.shields.io/badge/Faction-Darkin-8B0000?style=for-the-badge">`{=html}
+`<img src="https://img.shields.io/badge/Theme-Dark%20Fantasy-black?style=for-the-badge">`{=html}
+```{=html}
+</p>
+```
 
-O material explora desde a ascensão dos guerreiros divinos de Shurima até sua transformação em entidades aprisionadas em armas.
+------------------------------------------------------------------------
 
-🔗 Acesse o Notebook completo:
+# 📖 Sobre o Projeto
 
-👉 https://notebooklm.google.com/notebook/f35e9d16-1878-4442-bb89-b94397d97c6d
+Este repositório apresenta um **Notebook interativo criado no
+NotebookLM** contendo uma análise detalhada sobre a origem, queda e
+legado dos **Darkin**, uma das raças mais trágicas e poderosas do
+universo de League of Legends.
 
-☀️ Origem — Os Sunborn (Ascendentes)
+O material explora desde a **ascensão dos guerreiros divinos de
+Shurima** até sua transformação em entidades aprisionadas em armas.
 
-Os Darkin eram originalmente humanos extraordinários do Império de Shurima que passaram pelo ritual de Ascensão através do Disco Solar.
+🔗 Acesse o notebook:
 
-Esse ritual os transformava em deuses-guerreiros imortais, com formas inspiradas em animais divinos.
+https://notebooklm.google.com/notebook/f35e9d16-1878-4442-bb89-b94397d97c6d
 
-Eles eram liderados pela lendária Rainha-Guerreira Setaka, servindo como defensores do império.
+------------------------------------------------------------------------
 
-🌌 A Queda dos Ascendentes
+# ☀️ Origem --- Os Sunborn
 
-Dois eventos mudaram completamente o destino desses guerreiros:
+Os Darkin eram originalmente humanos extraordinários do Império de
+**Shurima** que passaram pelo ritual de **Ascensão através do Disco
+Solar**.
 
-⚫ O Trauma do Vazio
+Esse ritual transformava guerreiros mortais em **Ascendentes**, seres
+divinos com formas inspiradas em animais sagrados.
 
-Durante a rebelião de Icátia, os Ascendentes enfrentaram criaturas do Void.
+Eles protegiam o império e eram liderados pela lendária guerreira
+**Setaka**.
 
-Apesar da vitória, o contato prolongado com o Vazio deixou cicatrizes psicológicas profundas, destruindo gradualmente sua sanidade.
+------------------------------------------------------------------------
 
-🏺 O Fim de Shurima
+# 🌌 A Queda dos Ascendentes
 
-A morte do imperador Azir e o colapso do império deixaram os Ascendentes sem liderança.
+Dois eventos catastróficos mudaram completamente seu destino.
 
-Sem propósito, eles começaram a lutar entre si em um conflito conhecido como:
+## ⚫ O Trauma do Vazio
 
-⚔️ A Grande Guerra Darkin
+Durante a rebelião de Icátia, os Ascendentes enfrentaram criaturas do
+**Vazio**.
 
-Um período devastador que quase destruiu Runeterra.
+Apesar da vitória, o contato prolongado com essas entidades deixou
+cicatrizes mentais profundas, levando muitos Ascendentes à loucura.
 
-🩸 Hemomancia — A Magia de Sangue
+## 🏺 O Fim de Shurima
 
-Para vencer a guerra, os Ascendentes passaram a estudar hemomancia, uma forma proibida de magia que permite manipular carne, sangue e vida.
+A morte do imperador **Azir** causou o colapso do império.
 
-Isso transformou seus corpos em formas demoníacas grotescas, fundindo carne e armadura.
+Sem liderança ou propósito, os Ascendentes começaram a lutar entre si.
 
-Foi nesse momento que os mortais passaram a chamá-los de:
+Esse período ficou conhecido como:
 
-Darkin — "Os Caídos"
-⛓️ O Aprisionamento
+# ⚔️ A Grande Guerra Darkin
 
-Temendo a destruição total do mundo, os Aspectos de Mount Targon intervieram.
+------------------------------------------------------------------------
 
-O Aspecto do Crepúsculo ensinou um ritual capaz de selar a essência dos Darkin em armas.
+# 🩸 Hemomancia
+
+Para sobreviver à guerra, os Ascendentes começaram a estudar
+**hemomancia**, uma forma proibida de magia de sangue.
+
+Essa magia permitia remodelar seus corpos, criando formas demoníacas
+grotescas.
+
+Foi nesse período que os mortais passaram a chamá-los de:
+
+## Darkin --- "Os Caídos"
+
+------------------------------------------------------------------------
+
+# ⛓️ O Aprisionamento
+
+Temendo a destruição total do mundo, os Aspectos de Targon intervieram.
+
+O Aspecto do Crepúsculo ensinou aos mortais um ritual capaz de **selar a
+essência dos Darkin em suas próprias armas**.
 
 Esse destino é considerado pior que a morte:
 
-Consciência eterna presa na escuridão, incapaz de morrer ou sentir.
+> Consciência eterna presa em escuridão absoluta.
 
-🗡️ Darkin Conhecidos
-🔥 Aatrox
+------------------------------------------------------------------------
 
-O general Darkin original que busca destruir toda a realidade para finalmente acabar com sua própria existência.
+# ⚔️ Darkin Champions
 
-🎯 Varus
+## 🩸 Aatrox --- The Darkin Blade
 
-Habita o corpo de dois amantes ionianos, Valmar e Kai, criando um conflito constante entre vingança e redenção.
+```{=html}
+<p align="center">
+```
+`<img src="https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Aatrox_0.jpg" width="750">`{=html}
+```{=html}
+</p>
+```
+```{=html}
+<p align="center">
+```
+`<img src="https://img.shields.io/badge/Role-Darkin%20General-darkred?style=for-the-badge">`{=html}
+`<img src="https://img.shields.io/badge/Goal-End%20Reality-black?style=for-the-badge">`{=html}
+```{=html}
+</p>
+```
+Aatrox é um antigo general Darkin que busca destruir toda a realidade
+para se libertar da prisão eterna de sua espada.
 
-☠️ Rhaast
+------------------------------------------------------------------------
 
-Preso dentro da foice empunhada por Kayn, travando uma batalha de vontades pelo controle do corpo.
+## 🎯 Varus --- The Arrow of Retribution
 
-🐺 Naafiri
+```{=html}
+<p align="center">
+```
+`<img src="https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Varus_0.jpg" width="750">`{=html}
+```{=html}
+</p>
+```
+```{=html}
+<p align="center">
+```
+`<img src="https://img.shields.io/badge/Hosts-Valmar%20%26%20Kai-purple?style=for-the-badge">`{=html}
+`<img src="https://img.shields.io/badge/Goal-Vengeance-black?style=for-the-badge">`{=html}
+```{=html}
+</p>
+```
+Um Darkin preso dentro de um arco que compartilha o corpo de dois
+amantes ionianos.
 
-Sua consciência fragmentou-se em uma matilha de cães do deserto, acreditando que a força está na união.
+------------------------------------------------------------------------
 
-🩸 Xolaani
+## ☠️ Rhaast --- The Darkin Scythe
 
-Uma antiga curandeira que busca controlar todas as mentes através da hemomancia.
+```{=html}
+<p align="center">
+```
+`<img src="https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kayn_0.jpg" width="750">`{=html}
+```{=html}
+</p>
+```
+```{=html}
+<p align="center">
+```
+`<img src="https://img.shields.io/badge/Host-Kayn-darkred?style=for-the-badge">`{=html}
+`<img src="https://img.shields.io/badge/Conflict-Control%20of%20the%20Body-black?style=for-the-badge">`{=html}
+```{=html}
+</p>
+```
+Rhaast está preso dentro da foice empunhada por Kayn e luta
+constantemente pelo controle do corpo.
 
-🦅 Zaahen
+------------------------------------------------------------------------
 
-Um Ascendente com forma de águia que ajudou a selar seus irmãos antes de se aprisionar voluntariamente em sua própria arma.
+## 🐺 Naafiri --- The Hound of a Hundred Bites
 
-🌍 Impacto em Runeterra
+```{=html}
+<p align="center">
+```
+`<img src="https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Naafiri_0.jpg" width="750">`{=html}
+```{=html}
+</p>
+```
+```{=html}
+<p align="center">
+```
+`<img src="https://img.shields.io/badge/Power-Pack%20Instinct-brown?style=for-the-badge">`{=html}
+`<img src="https://img.shields.io/badge/Mind-Hive%20Consciousness-black?style=for-the-badge">`{=html}
+```{=html}
+</p>
+```
+Naafiri é um Darkin cuja consciência se fragmentou em uma matilha de
+cães do deserto.
 
-A presença dos Darkin moldou diversas nações:
+------------------------------------------------------------------------
 
-Noxus herdou a filosofia de força absoluta e práticas de hemomancia.
+# 🌍 Impacto em Runeterra
 
-Ionia desenvolveu ordens vigilantes contra relíquias corrompidas.
+A presença dos Darkin influenciou várias regiões:
 
-Demacia mantém lendas sobre protetores alados que lutaram contra os Darkin.
+-   **Noxus** herdou a filosofia de força absoluta.
+-   **Ionia** criou ordens vigilantes contra relíquias corrompidas.
+-   **Demacia** guarda lendas sobre guerreiros alados que lutaram contra
+    essas criaturas.
 
-🧠 Sobre o Notebook
+------------------------------------------------------------------------
 
-O notebook foi criado usando NotebookLM para:
+# 🚀 Como Explorar
 
-organizar fontes de lore
+1.  Abra o NotebookLM
+2.  Acesse o link do projeto
+3.  Explore as fontes e análises
 
-analisar histórias dos Darkin
+Notebook:
+https://notebooklm.google.com/notebook/f35e9d16-1878-4442-bb89-b94397d97c6d
 
-conectar eventos históricos de Runeterra
+------------------------------------------------------------------------
 
-explorar teorias e interpretações do universo
+# ⭐ Contribuição
 
-🚀 Como Explorar
+Se você gosta do lore de Runeterra:
 
-Acesse o notebook no link abaixo
+-   abra **issues**
+-   envie **pull requests**
+-   compartilhe teorias sobre os Darkin
 
-Navegue entre as fontes e análises
+------------------------------------------------------------------------
 
-Explore a história completa dos Darkin
-
-🔗 https://notebooklm.google.com/notebook/f35e9d16-1878-4442-bb89-b94397d97c6d
-
-⭐ Contribuição
-
-Se você também gosta do lore de Runeterra, sinta-se livre para:
-
-abrir issues
-
-sugerir melhorias
-
-compartilhar novas teorias sobre os Darkin
-
-💀 “Even those who have nothing can give their lives.”
-— Aatrox
+💀 *"Even those who have nothing can give their lives."*
