@@ -1,22 +1,16 @@
-# 🩸 Darkin Lore Compendium --- NotebookLM
+# 🩸 Darkin Lore Compendium — NotebookLM
 
-```{=html}
 <p align="center">
-```
-`<img src="https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Aatrox_0.jpg" width="100%">`{=html}
-```{=html}
+  <img src="https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Aatrox_0.jpg" width="100%">
 </p>
-```
-```{=html}
+
 <p align="center">
-```
-`<img src="https://img.shields.io/badge/NotebookLM-Lore%20Analysis-black?style=for-the-badge&logo=google&logoColor=white">`{=html}
-`<img src="https://img.shields.io/badge/Universe-Runeterra-darkred?style=for-the-badge">`{=html}
-`<img src="https://img.shields.io/badge/Faction-Darkin-8B0000?style=for-the-badge">`{=html}
-`<img src="https://img.shields.io/badge/Theme-Dark%20Fantasy-black?style=for-the-badge">`{=html}
-```{=html}
+  <img src="https://img.shields.io/badge/NotebookLM-Lore%20Analysis-black?style=for-the-badge&logo=google&logoColor=white">
+  <img src="https://img.shields.io/badge/Universe-Runeterra-darkred?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Faction-Darkin-8B0000?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Theme-Dark%20Fantasy-black?style=for-the-badge">
 </p>
-```
+
 
 ------------------------------------------------------------------------
 
@@ -103,89 +97,86 @@ Esse destino é considerado pior que a morte:
 
 # ⚔️ Darkin Champions
 
-## 🩸 Aatrox --- The Darkin Blade
+## 🩸 Aatrox --- A Lâmina Darkin
 
-```{=html}
+{=html}
 <p align="center">
-```
-`<img src="https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Aatrox_0.jpg" width="750">`{=html}
-```{=html}
+
+<img src="https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Aatrox_0.jpg" width="750">
+
 </p>
-```
-```{=html}
+
 <p align="center">
-```
-`<img src="https://img.shields.io/badge/Role-Darkin%20General-darkred?style=for-the-badge">`{=html}
-`<img src="https://img.shields.io/badge/Goal-End%20Reality-black?style=for-the-badge">`{=html}
-```{=html}
+
+<img src="https://img.shields.io/badge/Role-Darkin%20General-darkred?style=for-the-badge">
+<img src="https://img.shields.io/badge/Goal-End%20Reality-black?style=for-the-badge">
 </p>
-```
+
 Aatrox é um antigo general Darkin que busca destruir toda a realidade
 para se libertar da prisão eterna de sua espada.
 
 ------------------------------------------------------------------------
 
-## 🎯 Varus --- The Arrow of Retribution
+## 🎯 Varus --- A Flecha da Retribuição
 
-```{=html}
+
 <p align="center">
-```
-`<img src="https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Varus_0.jpg" width="750">`{=html}
-```{=html}
+
+<img src="https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Varus_0.jpg" width="750">
+
 </p>
-```
-```{=html}
+
 <p align="center">
-```
-`<img src="https://img.shields.io/badge/Hosts-Valmar%20%26%20Kai-purple?style=for-the-badge">`{=html}
-`<img src="https://img.shields.io/badge/Goal-Vengeance-black?style=for-the-badge">`{=html}
-```{=html}
+
+<img src="https://img.shields.io/badge/Hosts-Valmar%20%26%20Kai-purple?style=for-the-badge">
+<img src="https://img.shields.io/badge/Goal-Vengeance-black?style=for-the-badge">
+
 </p>
-```
+
 Um Darkin preso dentro de um arco que compartilha o corpo de dois
 amantes ionianos.
 
 ------------------------------------------------------------------------
 
-## ☠️ Rhaast --- The Darkin Scythe
+## ☠️ Rhaast --- A Foice Darkin
 
-```{=html}
+
 <p align="center">
-```
-`<img src="https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kayn_0.jpg" width="750">`{=html}
-```{=html}
+
+<img src="https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kayn_0.jpg" width="750">
+
 </p>
-```
-```{=html}
+
+
 <p align="center">
-```
-`<img src="https://img.shields.io/badge/Host-Kayn-darkred?style=for-the-badge">`{=html}
-`<img src="https://img.shields.io/badge/Conflict-Control%20of%20the%20Body-black?style=for-the-badge">`{=html}
-```{=html}
+
+<img src="https://img.shields.io/badge/Host-Kayn-darkred?style=for-the-badge">
+<img src="https://img.shields.io/badge/Conflict-Control%20of%20the%20Body-black?style=for-the-badge">
+
 </p>
-```
+
 Rhaast está preso dentro da foice empunhada por Kayn e luta
 constantemente pelo controle do corpo.
 
 ------------------------------------------------------------------------
 
-## 🐺 Naafiri --- The Hound of a Hundred Bites
+## 🐺 Naafiri --- A Fera das Cem Mordidas
 
-```{=html}
+{=html}
 <p align="center">
-```
-`<img src="https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Naafiri_0.jpg" width="750">`{=html}
-```{=html}
+
+<img src="https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Naafiri_0.jpg" width="750">
+
 </p>
-```
-```{=html}
+
+
 <p align="center">
-```
-`<img src="https://img.shields.io/badge/Power-Pack%20Instinct-brown?style=for-the-badge">`{=html}
-`<img src="https://img.shields.io/badge/Mind-Hive%20Consciousness-black?style=for-the-badge">`{=html}
-```{=html}
+
+<img src="https://img.shields.io/badge/Power-Pack%20Instinct-brown?style=for-the-badge">
+<img src="https://img.shields.io/badge/Mind-Hive%20Consciousness-black?style=for-the-badge">
+
 </p>
-```
+
 Naafiri é um Darkin cuja consciência se fragmentou em uma matilha de
 cães do deserto.
 
@@ -223,4 +214,4 @@ Se você gosta do lore de Runeterra:
 
 ------------------------------------------------------------------------
 
-💀 *"Even those who have nothing can give their lives."*
+💀 *"Mesmo aqueles que não têm nada a oferecer, podem dar a vida."*
