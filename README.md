@@ -1,4 +1,4 @@
-# 🩸 Darkin Lore Compendium — NotebookLM
+# 🩸 Darkin Lore Compendium (Compêndio da História de Darkin) — NotebookLM
 
 <p align="center">
   <img src="https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Aatrox_0.jpg" width="100%">
